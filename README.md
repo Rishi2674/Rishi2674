@@ -3,6 +3,9 @@
 <div id="header" align="center">
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
 </div>
+## 🚀 About Me
+- I am a `sophomore` at [Indian Institute of Information Technology , Allahbad](https://www.iiita.ac.in/)
+- I am currently pursuing `Information Technology`.
 
 <!--
 **Rishi2674/Rishi2674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
