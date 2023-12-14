@@ -1,7 +1,7 @@
 <h1 align = "center">Hi there , I am Rishi Upadhyay 👋</h1>
 
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="150"/>
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="300" height="200"/>
 </div>
 
 <!--
