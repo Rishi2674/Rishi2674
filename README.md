@@ -27,6 +27,12 @@
   <img src = "https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white&style=for-the-badge">
     </a>
 </div>
+
+
+## 🖥️ Github Profile Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Rishi2674&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishi2674&langs_count=5&theme=tokyonight)]()
+
 <!--
 **Rishi2674/Rishi2674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
