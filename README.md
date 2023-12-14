@@ -1,7 +1,7 @@
 <h1 align = "center">Hi there , I am Rishi Upadhyay 👋</h1>
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)" width="100"/>
+  <img src="[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)" width="100"/>
 </div>
 
 <!--
