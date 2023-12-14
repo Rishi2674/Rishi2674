@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there , I am Rishi Upadhyay 👋
 
 <!--
 **Rishi2674/Rishi2674** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
